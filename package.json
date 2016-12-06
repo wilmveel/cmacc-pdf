@@ -12,7 +12,7 @@
     "cmacc-pdf": "./bin/run.js"
   },
   "dependencies": {
-    "cmacc-compiler": "^1.0.3",
+    "cmacc-compiler": "^1.0.4",
     "html-pdf": "^2.1.0"
   }
 }
